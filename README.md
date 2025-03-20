@@ -82,10 +82,12 @@
 
 ### Пример 1: Обработка данных
 Пример обработки данных:
-![Uploading f7fc4062-12d8-44d4-add7-464cf00f9918.png…_n.jpg](https://github.com/user-attachments/assets/763168bb-93f9-4dcc-91df-8a7931ca750b_n.jpg)
+
+![b47cb9dd4fd03450013884391e4515f9-800x](https://github.com/user-attachments/assets/bc9ade08-e13f-483d-96c6-383febae2094)
+
 
 ### Пример 2: Генерация отчета
-!(images/example_report.gif)
+![slide17-l](https://github.com/user-attachments/assets/489c158f-99e1-4b88-814f-e4b7562a87c2)
 
 ---
 
